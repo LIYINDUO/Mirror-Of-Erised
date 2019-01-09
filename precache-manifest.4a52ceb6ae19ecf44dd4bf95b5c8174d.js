@@ -1,23 +1,35 @@
 self.__precacheManifest = [
   {
-    "revision": "ce415c5a1154b42c9bf7",
-    "url": "/Mirror-Of-Erised/static/css/main.cb2e1030.chunk.css"
+    "revision": "7d2a08d125f390bebc15",
+    "url": "/Mirror-Of-Erised/static/css/main.41ee53f9.chunk.css"
   },
   {
-    "revision": "ce415c5a1154b42c9bf7",
-    "url": "/Mirror-Of-Erised/static/js/main.ce415c5a.chunk.js"
+    "revision": "7d2a08d125f390bebc15",
+    "url": "/Mirror-Of-Erised/static/js/main.7d2a08d1.chunk.js"
   },
   {
-    "revision": "400edefbc4255cf0f8a2",
-    "url": "/Mirror-Of-Erised/static/css/1.ec3f48fa.chunk.css"
+    "revision": "405e916a20cb0ff43bc6",
+    "url": "/Mirror-Of-Erised/static/css/1.b22827a6.chunk.css"
   },
   {
-    "revision": "400edefbc4255cf0f8a2",
-    "url": "/Mirror-Of-Erised/static/js/1.400edefb.chunk.js"
+    "revision": "405e916a20cb0ff43bc6",
+    "url": "/Mirror-Of-Erised/static/js/1.405e916a.chunk.js"
   },
   {
-    "revision": "f7b248c3ff921f28667c",
-    "url": "/Mirror-Of-Erised/static/js/runtime~main.f7b248c3.js"
+    "revision": "1b0adef3302af083d519",
+    "url": "/Mirror-Of-Erised/static/css/2.ccc66133.chunk.css"
+  },
+  {
+    "revision": "1b0adef3302af083d519",
+    "url": "/Mirror-Of-Erised/static/js/2.1b0adef3.chunk.js"
+  },
+  {
+    "revision": "5cc69ed77b333e966160",
+    "url": "/Mirror-Of-Erised/static/js/3.5cc69ed7.chunk.js"
+  },
+  {
+    "revision": "2a9266ff9d4fefb6accf",
+    "url": "/Mirror-Of-Erised/static/js/runtime~main.2a9266ff.js"
   },
   {
     "revision": "b1a9e10bc5986d2d83830944ba9e2921",
@@ -92,7 +104,7 @@ self.__precacheManifest = [
     "url": "/Mirror-Of-Erised/static/media/Testimonials_Yinduo.a4565538.pdf"
   },
   {
-    "revision": "cdcde31631e902ef441e1b3d590a4b13",
+    "revision": "0ae4e60a4cbc02ead914c75bfc3e5858",
     "url": "/Mirror-Of-Erised/index.html"
   }
 ];
