@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a72737e42ac8064d176a",
-    "url": "/Mirror-Of-Erised/static/css/main.060194ac.chunk.css"
+    "revision": "c762f23a9f35a864c409",
+    "url": "/Mirror-Of-Erised/static/css/main.2824b4c9.chunk.css"
   },
   {
-    "revision": "a72737e42ac8064d176a",
-    "url": "/Mirror-Of-Erised/static/js/main.a72737e4.chunk.js"
+    "revision": "c762f23a9f35a864c409",
+    "url": "/Mirror-Of-Erised/static/js/main.c762f23a.chunk.js"
   },
   {
     "revision": "1525ff4645185426eb47",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/Mirror-Of-Erised/static/media/Testimonials_Yinduo.a4565538.pdf"
   },
   {
-    "revision": "06fecf0f8247bf6ec740cba6926791da",
+    "revision": "073d8d98fa2631368e88860036f18b7f",
     "url": "/Mirror-Of-Erised/index.html"
   }
 ];
