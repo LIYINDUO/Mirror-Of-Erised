@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "24b30476108168a6f7ec",
+    "revision": "823a97952f288ca6572f",
     "url": "/Mirror-Of-Erised/static/css/main.dbd5a36e.chunk.css"
   },
   {
-    "revision": "24b30476108168a6f7ec",
-    "url": "/Mirror-Of-Erised/static/js/main.24b30476.chunk.js"
+    "revision": "823a97952f288ca6572f",
+    "url": "/Mirror-Of-Erised/static/js/main.823a9795.chunk.js"
   },
   {
     "revision": "1525ff4645185426eb47",
@@ -92,19 +92,19 @@ self.__precacheManifest = [
     "url": "/Mirror-Of-Erised/static/media/WorkGroupPhoto.bdc51a6d.jpeg"
   },
   {
-    "revision": "fafccba640329ad8d78fe5b7cc4445d1",
-    "url": "/Mirror-Of-Erised/static/media/WorkSelfie1.fafccba6.jpeg"
+    "revision": "663ceca182443ba5805e88c19f7ff06e",
+    "url": "/Mirror-Of-Erised/static/media/WorkSelfie1.663ceca1.jpeg"
   },
   {
-    "revision": "95c38b943aeb4e270bcf308a6847bd7b",
-    "url": "/Mirror-Of-Erised/static/media/WorkSelfie2.95c38b94.jpeg"
+    "revision": "ae8a29d6f61a0b166ae96b39f6dda1e9",
+    "url": "/Mirror-Of-Erised/static/media/WorkSelfie2.ae8a29d6.png"
   },
   {
     "revision": "a4565538b11a22787597ab5247d0cfc4",
     "url": "/Mirror-Of-Erised/static/media/Testimonials_Yinduo.a4565538.pdf"
   },
   {
-    "revision": "0205d42ee4ca9da6b779642789b7a39a",
+    "revision": "71c9bdb147e430d24a8fc8efc6f7e119",
     "url": "/Mirror-Of-Erised/index.html"
   }
 ];
