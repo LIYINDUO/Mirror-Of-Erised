@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mirror-Of-Erised/precache-manifest.4383e030eb23136c84084229b88d7df4.js"
+  "/Mirror-Of-Erised/precache-manifest.229eca99b084eb587beae7fe3b95c384.js"
 );
 
 workbox.clientsClaim();
