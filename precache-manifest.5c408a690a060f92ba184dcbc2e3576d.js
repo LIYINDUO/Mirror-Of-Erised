@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "9d7bc3c99388701369bb",
-    "url": "/Mirror-Of-Erised/static/css/main.a3cd1f59.chunk.css"
+    "revision": "7ce5eb148f8181dddfed",
+    "url": "/Mirror-Of-Erised/static/css/main.f9950abd.chunk.css"
   },
   {
-    "revision": "9d7bc3c99388701369bb",
-    "url": "/Mirror-Of-Erised/static/js/main.9d7bc3c9.chunk.js"
+    "revision": "7ce5eb148f8181dddfed",
+    "url": "/Mirror-Of-Erised/static/js/main.7ce5eb14.chunk.js"
   },
   {
-    "revision": "1005f8b41c831b8fd0c4",
-    "url": "/Mirror-Of-Erised/static/css/1.8d285cbb.chunk.css"
+    "revision": "c04433e301a65b058739",
+    "url": "/Mirror-Of-Erised/static/css/1.30322902.chunk.css"
   },
   {
-    "revision": "1005f8b41c831b8fd0c4",
-    "url": "/Mirror-Of-Erised/static/js/1.1005f8b4.chunk.js"
+    "revision": "c04433e301a65b058739",
+    "url": "/Mirror-Of-Erised/static/js/1.c04433e3.chunk.js"
   },
   {
     "revision": "d3447e91ea568af968b8",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Mirror-Of-Erised/static/js/3.d75ded36.chunk.js"
   },
   {
-    "revision": "b6c05e95c5cfd96a7f9c",
-    "url": "/Mirror-Of-Erised/static/js/runtime~main.b6c05e95.js"
+    "revision": "28839bb31e352e11f11a",
+    "url": "/Mirror-Of-Erised/static/js/runtime~main.28839bb3.js"
   },
   {
     "revision": "b1a9e10bc5986d2d83830944ba9e2921",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/Mirror-Of-Erised/static/media/Testimonials_Yinduo.a4565538.pdf"
   },
   {
-    "revision": "e7c4d8d09f775d856d10aa6338f8eb38",
+    "revision": "5aa8c579193dfc10db4f7cbc01f099e8",
     "url": "/Mirror-Of-Erised/index.html"
   }
 ];
